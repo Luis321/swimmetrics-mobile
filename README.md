@@ -1,4 +1,4 @@
-# 🏊 Team Pejerrey
+# 🏊 SwimMetrics Mobile
 
 **Aplicación Web Progresiva (PWA)** para registrar, analizar y visualizar métricas de natación en todos los estilos.
 
