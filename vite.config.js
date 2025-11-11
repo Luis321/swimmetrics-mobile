@@ -16,8 +16,8 @@ export default defineConfig({
         background_color: '#0F172A',
         display: 'standalone',
         orientation: 'portrait',
-        scope: '/',
-        start_url: '/',
+        scope: '/swimmetrics-mobile/',
+        start_url: '/swimmetrics-mobile/',
         icons: [
           {
             src: 'pwa-192x192.png',
