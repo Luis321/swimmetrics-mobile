@@ -3,7 +3,7 @@ export const SWIM_STYLES = {
     id: 'libre',
     name: 'Libre',
     emoji: '🏊‍♂️',
-    color: '#0EA5E9',
+    color: '#3B82F6',
     description: 'Estilo libre / Crol'
   },
   MARIPOSA: {

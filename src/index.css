@@ -67,7 +67,7 @@ input[type='number'] {
 
 /* Focus visible */
 *:focus-visible {
-  outline: 2px solid #0EA5E9;
+  outline: 2px solid #6366F1;
   outline-offset: 2px;
 }
 
@@ -104,7 +104,7 @@ canvas {
   bottom: 80px;
   left: 16px;
   right: 16px;
-  background: linear-gradient(135deg, #0EA5E9 0%, #0284C7 100%);
+  background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
   color: white;
   padding: 16px;
   border-radius: 16px;
@@ -127,7 +127,7 @@ canvas {
 /* Loading spinner */
 .spinner {
   border: 3px solid rgba(255, 255, 255, 0.1);
-  border-top-color: #0EA5E9;
+  border-top-color: #6366F1;
   border-radius: 50%;
   width: 40px;
   height: 40px;
